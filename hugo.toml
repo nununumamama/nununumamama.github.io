@@ -1,0 +1,4 @@
+baseURL = "https://nununumamama.github.io/"
+languageCode = "ja"
+title = "My Diary"
+theme = "PaperMod"
