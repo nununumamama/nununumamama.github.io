@@ -1,6 +1,6 @@
 ---
 title: "最初の日記"
-date: 2026-06-30
+date: 2026-06-29
 draft: false
 ---
 
