@@ -6,6 +6,15 @@
     <description>Recent content on My Diary</description>
     <generator>Hugo</generator>
     <language>ja</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://nununumamama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最初の日記</title>
+      <link>https://nununumamama.github.io/posts/first/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://nununumamama.github.io/posts/first/</guid>
+      <description>&lt;p&gt;Hugoブログを始めました。&lt;br&gt;
+これが最初の記事です。&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
